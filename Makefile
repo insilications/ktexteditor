@@ -1,5 +1,6 @@
 PKG_NAME := ktexteditor
-URL = https://download.kde.org/stable/frameworks/5.91/ktexteditor-5.91.0.tar.xz
+URL = https://invent.kde.org/frameworks/ktexteditor.git
 ARCHIVES = 
+ARCHIVES_GIT = 
 
 include ../common/Makefile.common
