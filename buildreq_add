@@ -1,10 +1,17 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
-syntax-highlighting-dev
-kcompletion-dev
-kparts-dev
-kcodecs-dev
-sonnet-dev
-kcompletion-dev
-kguiaddons-dev
+buildreq-cmake
+buildreq-kde
+extra-cmake-modules-data
 karchive-dev
+kauth-dev
+kcodecs-dev
+kcompletion-dev
+kconfig-dev
+kguiaddons-dev
+ki18n-dev
+kio-dev
+kparts-dev
+ktextwidgets-dev
+sonnet-dev
+syntax-highlighting-dev
