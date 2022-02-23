@@ -50,8 +50,6 @@ konsole
 kparts-dev
 krb5
 krb5-dev
-ktexteditor-dev
-ktexteditor-staticdev
 ktextwidgets-dev
 kwallet-dev
 libgcrypt-dev
